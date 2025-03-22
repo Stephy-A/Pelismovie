@@ -1,0 +1,19 @@
+h3 {
+  font-family: "Lucida Handwriting";
+}
+
+.navbar {
+  background: rgb(5, 68, 5);
+}
+
+.navbar a {
+  color: rgb(252, 247, 247);
+}
+
+.lead {
+  font-family: "Copperplate", "Papyrus", "fantasy";
+}
+
+.btn {
+  background: rgb(54, 87, 199);
+}/*# sourceMappingURL=app.css.map */
